@@ -1,4 +1,6 @@
 // #include <iostream>
+amogus
+zzzzzzzzzzzzz
 using namespace std;
 int main()
 {
