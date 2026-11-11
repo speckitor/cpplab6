@@ -42,3 +42,5 @@ int main()
     delete[] q;
     return 0;
 }
+
+opa pohalko 2008 burmalda
